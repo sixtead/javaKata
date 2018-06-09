@@ -11,7 +11,6 @@ public class TripleTrouble {
         Pattern p2 = Pattern.compile("(\\d)\\1");
         Matcher m2 = p2.matcher(String.valueOf(num2));
 
-        System.out.println(String.valueOf(num1));
         while (m1.find()) {
             while(m2.find()) {
                 if(m1.group().substring(0, 2).equals(m2.group())) return 1;
