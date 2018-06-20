@@ -1,4 +1,4 @@
-package com.codewars.sixtead.kyu7;
+package com.codewars.sixtead._7kyu;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.codewars.sixtead.kyu8;
+package com.codewars.sixtead._8kyu;
 
 class StringRepeat {
     public static String repeatStr(final int repeat, final String string) {

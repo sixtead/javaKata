@@ -1,4 +1,4 @@
-package com.codewars.sixtead.kyu6;
+package com.codewars.sixtead._6kyu;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

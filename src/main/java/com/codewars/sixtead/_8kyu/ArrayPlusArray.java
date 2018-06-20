@@ -1,4 +1,4 @@
-package com.codewars.sixtead.kyu8;
+package com.codewars.sixtead._8kyu;
 
 class ArrayPlusArray {
     public static int arrayPlusArray(int[] arr1, int[] arr2) {

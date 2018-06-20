@@ -1,4 +1,4 @@
-package com.codewars.sixtead.kyu6;
+package com.codewars.sixtead._6kyu;
 
 public class MultiTapKeypadTextEntryOnAnOldMobilePhone {
     private static final String[] keypad;

@@ -1,4 +1,4 @@
-package com.codewars.sixtead.kyu8;
+package com.codewars.sixtead._8kyu;
 
 class RemoveStringSpaces {
     static String noSpace(final String x) {

@@ -1,4 +1,4 @@
-package com.codewars.sixtead.kyu7;
+package com.codewars.sixtead._7kyu;
 
 public class IsThisATriangle {
     public static boolean isTriangle(int a, int b, int c) {

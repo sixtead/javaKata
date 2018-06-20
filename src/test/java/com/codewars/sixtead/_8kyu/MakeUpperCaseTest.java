@@ -1,4 +1,4 @@
-package com.codewars.sixtead.kyu8;
+package com.codewars.sixtead._8kyu;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
